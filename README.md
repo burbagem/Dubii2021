@@ -3,3 +3,6 @@
 Texte hautement instructif et essentiellement important.
  
  ## Surtout ne pas oublier la deuxième ligne
+- a
+- b
+- c
